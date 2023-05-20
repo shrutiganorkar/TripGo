@@ -1,3 +1,5 @@
+TripGo - An online travel manger and payment portal
 
-Complete Frontend website specifically designed for online tourism and 
-travel planning using HTML, CSS and Javascript. 
+A website specifically designed to facilitate seamless travel experiences.
+Capabilities include creating packages, user registration, payment processing, address customer queries and generating 
+total trip cost.
